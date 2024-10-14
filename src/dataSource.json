@@ -1,0 +1,114 @@
+{
+    "Alumnos": [
+        {
+            "id": 1,
+            "nombre": "Juanito",
+            "nivel": 2,
+            "nota_1": 5.0,
+            "nota_2": 5.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 2,
+            "nombre": "Marcelo",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 3,
+            "nombre": "Felipe",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 4,
+            "nombre": "Antonia",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 5,
+            "nombre": "Carmen",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 6,
+            "nombre": "Claudia",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 7,
+            "nombre": "Esperanza",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 8,
+            "nombre": "Tini",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 9,
+            "nombre": "Jose Miguel",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        },
+        {
+            "id": 10,
+            "nombre": "Javier",
+            "nivel": 2,
+            "nota_1": 3.0,
+            "nota_2": 1.0,
+            "nota_3": 5.0,
+            "nota_4": 5.0,
+            "nota_5": 5.0,
+            "nota_6": 5.0
+        }
+    ]
+}
